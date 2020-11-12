@@ -1,0 +1,1 @@
+Location{partName = 'Ice Prisone', kingdom = 'Yordan', mainRace = 'WITCHES', enteringLevel = 23}

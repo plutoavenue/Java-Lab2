@@ -1,0 +1,1 @@
+Weapon { type = FIREARM, name = 'Steyr-Mannlicher SSG-08', level = 45, damages = 202, cost = 30000, location = Location{partName = 'Ice Prisone', kingdom = 'Yordan', mainRace = 'WITCHES', enteringLevel = 23}}
